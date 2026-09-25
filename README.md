@@ -29,4 +29,4 @@ with client:
 
 <a name="license"></a>
 ## License
-`TDLib Flutter Client prebuilt Binaries` is licensed under the terms of the Boost Software License. See [LICENSE_1_0.txt](http://www.boost.org/LICENSE_1_0.txt) for more information.
+This Repo is licensed under the terms of the Boost Software License. See [LICENSE_1_0.txt](http://www.boost.org/LICENSE_1_0.txt) for more information.
